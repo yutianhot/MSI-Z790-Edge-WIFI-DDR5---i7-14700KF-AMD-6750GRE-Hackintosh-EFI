@@ -1,2 +1,11 @@
 # MSI-Z790-Edge-WIFI-DDR5---i7-14700KF---AMD-6750GRE---Hackintosh-EFI
 MSI Z790 Edge WIFI DDR5 - i7-14700KF - AMD 6750GRE - Hackintosh-EFI
+
+CPU：Intel i7 14700KF
+主板：MSI Z790 Edge Wi-Fi DDR5
+内存： 2x16G 6800
+硬盘：WD BLACK SN770 1TB
+电源：
+散热：
+网卡：博通 BCM94360CD
+机箱：
